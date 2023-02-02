@@ -1,4 +1,3 @@
-welcome
 
 "Education is a system of imposed ignorance."
 
