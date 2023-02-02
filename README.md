@@ -1,5 +1,5 @@
 
-"Education is a system of imposed ignorance."
+"Education is a system of imposed ignorance"
 
 -Noam Chomsky
 <!---
